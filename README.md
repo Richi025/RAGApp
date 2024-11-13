@@ -39,7 +39,7 @@ You need to install the following tools and configure their dependencies:
 
 1. Clone the repository and navigate into the project directory:
     ```sh
-    git clone https:https://github.com/Richi025/RAGApp 
+    git clone https://github.com/Richi025/RAGApp 
     cd RAGApp
     ```
 
